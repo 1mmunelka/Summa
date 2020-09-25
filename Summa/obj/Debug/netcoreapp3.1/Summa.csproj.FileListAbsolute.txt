@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Summa\bin\Debug\netcoreapp3.1\Summa.exe
+C:\Users\Kiril\source\repos\Summa\bin\Debug\netcoreapp3.1\Summa.deps.json
+C:\Users\Kiril\source\repos\Summa\bin\Debug\netcoreapp3.1\Summa.runtimeconfig.json
+C:\Users\Kiril\source\repos\Summa\bin\Debug\netcoreapp3.1\Summa.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Summa\bin\Debug\netcoreapp3.1\Summa.dll
+C:\Users\Kiril\source\repos\Summa\bin\Debug\netcoreapp3.1\Summa.pdb
+C:\Users\Kiril\source\repos\Summa\obj\Debug\netcoreapp3.1\Summa.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Summa\obj\Debug\netcoreapp3.1\Summa.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Summa\obj\Debug\netcoreapp3.1\Summa.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Summa\obj\Debug\netcoreapp3.1\Summa.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Summa\obj\Debug\netcoreapp3.1\Summa.dll
+C:\Users\Kiril\source\repos\Summa\obj\Debug\netcoreapp3.1\Summa.pdb
+C:\Users\Kiril\source\repos\Summa\obj\Debug\netcoreapp3.1\Summa.genruntimeconfig.cache
